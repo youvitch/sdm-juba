@@ -1,4 +1,4 @@
 # Juba portfolio
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/YOUVITCH/pen/rNXbVPL](https://codepen.io/YOUVITCH/pen/rNXbVPL).
+A Pen by juba Original URL: [https://codepen.io/YOUVITCH/pen/rNXbVPL](https://codepen.io/YOUVITCH/pen/rNXbVPL).
 
